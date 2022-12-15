@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradhumna896" alt="pradhumna896" /></a> </p>
 
-- 🔭 I’m currently working on **Bloc**
+- 🔭 I’m currently working on **Rameshwar Sharma**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter Bloc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pradhumna896/](https://github.com/pradhumna896/)
 

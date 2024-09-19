@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradhumna896" alt="pradhumna896" /></a> </p>
 
-- 🔭 I’m currently working on **Rameshwar Sharma**
+- 🔭 I’m currently working on **Accounting App**
 
 - 🌱 I’m currently learning **Flutter Bloc**
 

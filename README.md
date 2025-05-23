@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Payroll App**
 
-- 🌱 I’m currently learning **Node.js Bloc**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pradhumna896/](https://github.com/pradhumna896/)
 
